@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParseMain", "ParseMain\ParseMain.vcproj", "{955E58F9-C217-4046-9419-FFD31D9322C9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParseTest", "ParseTest\ParseTest.vcproj", "{797081DC-1683-427F-95F1-F34B60F8989C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{955E58F9-C217-4046-9419-FFD31D9322C9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{955E58F9-C217-4046-9419-FFD31D9322C9}.Debug|Win32.Build.0 = Debug|Win32
+		{955E58F9-C217-4046-9419-FFD31D9322C9}.Release|Win32.ActiveCfg = Release|Win32
+		{955E58F9-C217-4046-9419-FFD31D9322C9}.Release|Win32.Build.0 = Release|Win32
+		{797081DC-1683-427F-95F1-F34B60F8989C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{797081DC-1683-427F-95F1-F34B60F8989C}.Debug|Win32.Build.0 = Debug|Win32
+		{797081DC-1683-427F-95F1-F34B60F8989C}.Release|Win32.ActiveCfg = Release|Win32
+		{797081DC-1683-427F-95F1-F34B60F8989C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
